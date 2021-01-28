@@ -1,0 +1,5 @@
+批量操作
+1.批量注释
+ctrl+v进入visval block,光标选取需要注释的行，敲大写I，输入#，按两次esc即可
+2.批量取消注释
+ctrl+v进入visval block模式，选择需要删除的#，按d删除
